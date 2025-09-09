@@ -28,6 +28,17 @@ print(tuple([1,2,3]))
 
 
 
+
 # HF: git parancsok:
-# git init: adott mappa verziókövetésének inditása
-# git add . : 
+# git init: adott mappa verziókövetésének inditása.
+# git add:  Fájl hozzá adása a következő commitoláshoz.
+# git clone: repository letöltése a helyi eszközünkre.
+# git config --global user.name:felhasználónév beállítása.
+# git config --global user.email:emailcím beállítása csatolása a visual studióhoz.
+# git log: commit előzmények megtekintése.
+# git commit -m:commitálni a legújabb scriptünket egy új "snapshot"-ként
+# git push:helyi commit feltöltése a GitHub-ra.
+
+
+
+
