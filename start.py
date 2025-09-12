@@ -28,7 +28,6 @@ elif mit.upper() == "T":
     # calculation
     kerulet = teglalapKerulete(a_oldal, b_oldal)
     # output
-    print(f"A téglalap kerülete: {kerulet}cm.")
     kiir("téglalap", kerulet)
 else:
     print("Hibás választás. Kilépek!")
