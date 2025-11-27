@@ -1,0 +1,20 @@
+[
+    {"verseny_id": 1, "lo_neve": "Villámcsapás", "zsoké": "John Doe", "helyezés": 1},
+    {"verseny_id": 1, "lo_neve": "Villám", "zsoké": "Jane Smith", "helyezés": 2},
+    {"verseny_id": 1, "lo_neve": "Vihar", "zsoké": "Jim Brown", "helyezés": 3},
+    {"verseny_id": 2, "lo_neve": "Láng", "zsoké": "Jake White", "helyezés": 1},
+    {"verseny_id": 2, "lo_neve": "Villanás", "zsoké": "Jill Green", "helyezés": 2},
+    {"verseny_id": 2, "lo_neve": "Üstökös", "zsoké": "Jack Black", "helyezés": 3},
+    {"verseny_id": 3, "lo_neve": "Rakéta", "zsoké": "Jerry Blue", "helyezés": 1},
+    {"verseny_id": 3, "lo_neve": "Meteor", "zsoké": "Jenny Red", "helyezés": 2},
+    {"verseny_id": 3, "lo_neve": "Aszteroida", "zsoké": "Joe Yellow", "helyezés": 3},
+    {"verseny_id": 4, "lo_neve": "Tornádó", "zsoké": "James Purple", "helyezés": 1},
+    {"verseny_id": 4, "lo_neve": "Hurrikán", "zsoké": "Janet Orange", "helyezés": 2},
+    {"verseny_id": 4, "lo_neve": "Ciklon", "zsoké": "Jason Pink", "helyezés": 3},
+    {"verseny_id": 5, "lo_neve": "Tájfun", "zsoké": "Jordan Gray", "helyezés": 1},
+    {"verseny_id": 5, "lo_neve": "Forgószél", "zsoké": "Jasmine Brown", "helyezés": 2},
+    {"verseny_id": 5, "lo_neve": "Szélvihar", "zsoké": "Jeremy White", "helyezés": 3},
+    {"verseny_id": 6, "lo_neve": "Szellő", "zsoké": "Jocelyn Black", "helyezés": 1},
+    {"verseny_id": 6, "lo_neve": "Breeze", "zsoké": "Jeff Green", "helyezés": 2},
+    {"verseny_id": 6, "lo_neve": "Gust", "zsoké": "Julia Blue", "helyezés": 3}
+]
